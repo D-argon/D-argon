@@ -2,7 +2,7 @@
   <picture>
      <source media="(prefers-color-scheme: dark)" srcset="https://github.com/D-argon/D-argon/assets/130792776/9b221412-47ab-4076-8c25-4d3257e838e9">
      <source media="(prefers-color-scheme: light)" srcset="https://github.com/D-argon/D-argon/assets/130792776/0675856c-8999-4602-9384-f74ba6f086d3AGE">
-     <img alt="Shows a moon/sun depending on your theme!" src="https://icon-library.com/images/github-icon-png/github-icon-png-29.png" width=100>
+     <img alt="Shows a moon/sun depending on your theme!" src="https://icon-library.com/images/github-icon-png/github-icon-png-29.png" title='Hello' width=100>
   </picture>
 </div>
 
@@ -25,10 +25,6 @@ If you need, these are my contacts:
   <a alt='My Twitter' href='twitter/SpirallingSkull'>
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=Twitter&logoColor=white" title='My Twitter !'>
   </a>
-</div>
-
-<div align=center>
-  <img alt='A gif of an old television in static' src='https://github.com/D-argon/D-argon/assets/130792776/11a17fe8-724d-4579-ac21-e44722547cb5' title='Hello' width=150>
 </div>
 
 <!---
