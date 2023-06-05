@@ -27,6 +27,12 @@ If you need, these are my contacts:
   </a>
 </div>
 
+---
+
+<div align=center>
+  <img alt="mona" src="https://github.githubassets.com/images/mona-loading-dark.gif" width=100 >
+</div>
+
 <!---
 D-argon/D-argon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
