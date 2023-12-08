@@ -18,14 +18,7 @@ Hey, I’m @D-argon
 
 If you need, these are my contacts:
 
-<div id='badges'>
-  <a alt='My Email' href='mailto:dargondark02@gmail.com'>
-    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=Gmail&logoColor=white" title='My Email !'>
-  </a>
-  <a alt='My Twitter' href='twitter/SpirallingSkull'>
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=Twitter&logoColor=white" title='My Twitter !'>
-  </a>
-</div>
+(https://keybase.io/dargon)
 
 ---
 
