@@ -5,20 +5,21 @@
      <img alt="Shows a moon/sun depending on your theme!" src="https://icon-library.com/images/github-icon-png/github-icon-png-29.png" title='Hello' width=100>
   </picture>
 </div>
+<small>(AI generated :/ i'll change it)</small>
 
 ---
 
-Hey, I’m @D-argon
+# Hey, I’m @D-argon
 
-- I'm new to "dev'ing", my native language is **pt-br**, but I can handle **en** too as seen!
-- I'm into drawing, horror and obvsiously coding. Mostly I enjoy *Front-end*, but aim for *Fullstack* and maybe *gamedev*.
-- I'm studying at an online programming course called Alura, learning bits of everything, but I expect to be in university by next year!
+- CS student passionate about optimization, low-level programming, and cybersec;
+- familiarized with C/C++, Python, HTML/CSS, and a bit of Bash;
+- free time is spent either trying to gamedev or to decode nix configs.
 
 ---
 
-If you need, these are my contacts:
+If you need, this is my contact:
 
-(https://keybase.io/dargon)
+(mailto:dargonnn@duck.com)
 
 ---
 
