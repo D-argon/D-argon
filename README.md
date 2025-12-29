@@ -1,11 +1,10 @@
 <div align=center>
   <picture>
-     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/D-argon/D-argon/assets/130792776/9b221412-47ab-4076-8c25-4d3257e838e9">
-     <source media="(prefers-color-scheme: light)" srcset="https://github.com/D-argon/D-argon/assets/130792776/0675856c-8999-4602-9384-f74ba6f086d3AGE">
-     <img alt="Shows a moon/sun depending on your theme!" src="https://icon-library.com/images/github-icon-png/github-icon-png-29.png" title='Hello' width=100>
+     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/4a33869d-f7a1-49be-9b8e-8998d20ee7e9">
+     <source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/23893391-8c52-4af6-a775-5de3e0c01e80">
+     <img alt="Shows a moon/sun depending on your system's theme." src="https://icon-library.com/images/github-icon-png/github-icon-png-29.png" title='Hello' width=160>
   </picture>
 </div>
-<small>(AI generated :/ i'll change it)</small>
 
 ---
 
