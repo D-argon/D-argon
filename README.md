@@ -10,9 +10,9 @@
 
 # Hey, I’m @D-argon
 
-- CS student passionate about optimization, low-level programming, and cybersec;
+- CS student passionate about optimization, low-level programming, and cybersec+hacking;
 - familiarized with C/C++, Python, HTML/CSS, and a bit of Bash;
-- free time is spent either trying to gamedev or to decode nix configs.
+- free time is spent either trying to gamedev, doodling or deciphering my nix configs.
 
 ---
 
